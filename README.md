@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project use ReactJs and TailwindCss
 
 ## How to run
 
@@ -14,4 +14,7 @@ npm install
 npm start
 ```
 
-### Boom
+### Boom!!
+
+## SC
+[logo]: https://arifulislamm.com/wp-content/uploads/2019/10/sc-tailwind-react.png "UI Screenshot"
