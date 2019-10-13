@@ -17,4 +17,4 @@ npm start
 ### Boom!!
 
 ## SC
-[logo]: https://arifulislamm.com/wp-content/uploads/2019/10/sc-tailwind-react.png "UI Screenshot"
+[SC]: https://user-images.githubusercontent.com/24652556/66715281-676bfc00-ede3-11e9-848a-5a614274cf71.png "UI Screenshot"
